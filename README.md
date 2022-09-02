@@ -1,9 +1,5 @@
-### Hi there 👋
+### Hi Everyone 👋
 
-<!--
-**Rakeshr06/Rakeshr06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on DevOps and Azure Administration
 - 🌱 I’m currently learning DevOps, Docker and JenKins 
